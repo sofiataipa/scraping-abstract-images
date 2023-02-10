@@ -1,0 +1,24 @@
+{
+  "name": "abstract",
+  "url": "https://unsplash.com/s/photos/abstract",
+  "content": {
+    "imageNames": [
+      "photo-1618005182384-a83a8bd57fbe.png",
+      "photo-1563089145-599997674d42.png",
+      "photo-1574169208507-84376144848b.png",
+      "photo-1567095761054-7a02e69e5c43.png",
+      "photo-1558591710-4b4a1ae0f04d.png",
+      "photo-1567359781514-3b964e2b04d6.png",
+      "photo-1604079628040-94301bb21b91.png",
+      "photo-1604076913837-52ab5629fba9.png",
+      "photo-1541701494587-cb58502866ab.png",
+      "photo-1557672172-298e090bd0f1.png",
+      "photo-1506259091721-347e791bab0f.png",
+      "photo-1510906594845-bc082582c8cc.png",
+      "photo-1618005198919-d3d4b5a92ead.png",
+      "photo-1552083974-186346191183.png",
+      "photo-1488554378835-f7acf46e6c98.png",
+      "photo-1519751138087-5bf79df62d5b.png"
+    ]
+  }
+}
